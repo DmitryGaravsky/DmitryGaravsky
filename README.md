@@ -8,7 +8,7 @@ Results-oriented and seasoned IT professional with extensive experience spanning
 ### TechLead .NET Developer | [LLC DevSoft AM](https://www.devsoft.am/), Yerevan, Armenia | 2022-Present
 
 - Develop and maintain company-wide initiatives related to .NET controls and libraries, focusing on [code security](https://docs.devexpress.com/GeneralInformation/403365/security).
-- Provide technical leadership in mission-critical areas such as [globalization](https://www.devexpress.com/subscriptions/new-2023-2.xml#localization).
+- Provide technical leadership in mission-critical areas such as [latest .NET versions support](https://www.devexpress.com/subscriptions/new-2023-2.xml#net8) and [globalization](https://www.devexpress.com/subscriptions/new-2023-2.xml#localization).
 - Expertise and mentor developer groups in code quality, maintainability, and performance optimization.
 - Lead and support next-gen innovations for the Windows Forms platform like adding .NET support and new undertaking of enhancing by integrating other platforms' features, such as [HTML/CSS formatting](https://www.devexpress.com/winforms/html-css/), [DirectX rendering](https://www.devexpress.com/winforms/directx/), and [MVVM support](https://community.devexpress.com/blogs/winforms/archive/2022/11/28/devexpress-mvvm-framework-for-winforms.aspx).
 
