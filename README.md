@@ -5,16 +5,16 @@ Results-oriented and seasoned IT professional with extensive experience spanning
 
 ## Experience
 
-### TechLead .NET Developer | LLC DevSoft AM, Yerevan, Armenia | 2022-Present
+### TechLead .NET Developer | [LLC DevSoft AM](https://www.devsoft.am/), Yerevan, Armenia | 2022-Present
 
 - Develop and maintain company-wide initiatives related to .NET controls and libraries, focusing on [code security](https://docs.devexpress.com/GeneralInformation/403365/security).
 - Provide technical leadership in mission-critical areas such as [globalization](https://www.devexpress.com/subscriptions/new-2023-2.xml#localization).
 - Expertise and mentor developer groups in code quality, maintainability, and performance optimization.
 - Lead and support next-gen innovations for the Windows Forms platform like adding .NET support and new undertaking of enhancing by integrating other platforms' features, such as [HTML/CSS formatting](https://www.devexpress.com/winforms/html-css/), [DirectX rendering](https://www.devexpress.com/winforms/directx/), and [MVVM support](https://community.devexpress.com/blogs/winforms/archive/2022/11/28/devexpress-mvvm-framework-for-winforms.aspx).
 
-### Senior .NET Developer | LLC Developer Soft, Tula, Russia | 2012-2022
+### Senior .NET Developer | [LLC Developer Soft](https://www.developersoft.ru/), Tula, Russia | 2012-2022
 
-- Develop and maintain mission-critical .NET UI controls and libraries for Desktop. Explore related [WinForms](https://www.devexpress.com/products/net/controls/winforms/) and [WPF](https://www.devexpress.com/products/net/controls/wpf/) product lines.
+- Develop and maintain mission-critical .NET UI controls and libraries for Desktop ([WinForms](https://www.devexpress.com/products/net/controls/winforms/) and [WPF](https://www.devexpress.com/products/net/controls/wpf/) product lines).
 - Lead a team of developers in designing and implementing scalable, high-performance, and maintainable .NET UI components.
 - Mentor middle/junior developers, conduct code reviews, and establish best practices to ensure a high level of code quality and maintainability.
 - Actively participate in the planning and execution of Agile development processes, ensuring the timely delivery of software milestones.
