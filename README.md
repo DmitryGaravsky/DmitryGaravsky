@@ -1,6 +1,6 @@
 # GARAVSKII DMITRII | TechLead | .NET
 
-Results-oriented and seasoned IT professional with extensive experience spanning over a decade in .NET development. Currently serving as a TechLead .NET Developer I drive the development and maintenance of company-wide initiatives, focusing on code security .NET controls and libraries. As a technical leader, I provide expertise in mission-critical areas like globalization, code quality, maintainability, and performance optimization and play a pivotal role in mentoring developer groups. Additionally, I lead and support innovative endeavors for the Windows Forms platform, contributing to advancements in technologies such as DirectX and HTML/CSS. Previously, leading a dedicated team, I demonstrated proficiency in developing and maintaining .NET UI controls and libraries for Desktop applications well-known in the world under the "DevExpress" brand. As an important part of my professional roles, my engagement in the .NET community is marked by participation in the Windows Forms project under the .NET Foundation. I also had the privilege of serving as a speaker at some local conferences, showcasing my dedication to knowledge sharing and community involvement.
+Results-oriented and seasoned IT professional with extensive experience spanning over a decade in .NET development. Currently serving as a TechLead .NET Developer I drive the development and maintenance of company-wide initiatives, focusing on code security .NET controls and libraries. As a technical leader, I provide expertise in mission-critical areas like globalization, code quality, maintainability, and performance optimization and play a pivotal role in mentoring developer groups. Additionally, I lead and support innovative endeavors for the Windows Forms platform, contributing to advancements in technologies such as DirectX and HTML/CSS. Previously, leading a dedicated team, I demonstrated proficiency in developing and maintaining .NET UI controls and libraries for Desktop applications well-known in the world under the [DevExpress](https://www.devexpress.com/) brand. As an important part of my professional roles, my engagement in the .NET community is marked by participation in the Windows Forms project under the .NET Foundation. I also had the privilege of serving as a speaker at some local conferences, showcasing my dedication to knowledge sharing and community involvement.
 
 
 ## Experience
@@ -36,5 +36,5 @@ Results-oriented and seasoned IT professional with extensive experience spanning
 
 ## Education
 
-* 2004-2006 MS in Quality control, Tula State University.
-* 2000-2004 BS in Automation of technological processes and production, Tula State University.
+* 2004-2006 Master in Quality Control, Tula State University.
+* 2000-2004 Bachelor in Automation of Technological Processes and Production, Tula State University.
